@@ -1,0 +1,8 @@
+body{
+    background-image: url('https://media.licdn.com/dms/image/D4E12AQElFMubflQ43A/article-cover_image-shrink_720_1280/0/1670868279203?e=2147483647&v=beta&t=QCk6o2QaWxPRCKtJkPmrgy5tuKTb2eeoxLe7tza9UdU');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#tiempoRestante{
+font-family: 'Orbitron', sans-serif;
+}
