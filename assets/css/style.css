@@ -6,3 +6,23 @@ body{
 #tiempoRestante{
 font-family: 'Orbitron', sans-serif;
 }
+#tiempoRestante .text{
+    width: 19rem!important;
+}
+@media (max-width: 767.98px) {
+    #tiempoRestante {
+        flex-direction: column !important;
+        text-align: center;
+    }
+    #tiempoRestante .text{
+        width: auto!important;
+    }
+}
+
+/* #tiempoRestante div { */
+    /* max-width: 30%; */
+  /* } */
+
+  /* .cuentaRegresiva > div > * { */
+    /* flex: 1; */
+  /* } */
